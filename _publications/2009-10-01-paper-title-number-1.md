@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Association of genetic variant linked to hemochromatosis with brain magnetic resonance imaging measures of iron and movement disorders"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
